@@ -1,4 +1,6 @@
-# reaction-timer
+# Reaction time test
+
+A reaction time test app build with Vue js
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
