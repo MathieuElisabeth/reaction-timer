@@ -1,4 +1,4 @@
-# Reaction time test
+# Reaction time test 🥷
 
 A reaction time test app build with Vue js
 
